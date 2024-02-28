@@ -1,0 +1,61 @@
+Elemento raiz: inventario
+--------------------------------
+Su codigo es:      ||  Valor: P1
+
+Etiqueta: peso     ||  Valor:  10Kg 
+
+Etiqueta: nombre     ||  Valor:  Ordenador 
+
+Etiqueta: aula     ||  Valor:  Multimedia 
+
+Etiqueta: piso     ||  Valor: Primero
+
+Su codigo es:      ||  Valor: P2
+
+Etiqueta: peso     ||  Valor:  500g 
+
+Etiqueta: nombre     ||  Valor:  switch 
+
+Etiqueta: aula     ||  Valor:  Cartoon 
+
+Etiqueta: piso     ||  Valor: Segundo
+
+Su codigo es:      ||  Valor: P3
+
+Etiqueta: peso     ||  Valor:  700g 
+
+Etiqueta: nombre     ||  Valor:  Pantalla 
+
+Etiqueta: aula     ||  Valor:  Aula 2 
+
+Etiqueta: piso     ||  Valor: Primero
+
+Su codigo es:      ||  Valor: P4
+
+Etiqueta: peso     ||  Valor:  640g 
+
+Etiqueta: nombre     ||  Valor:  Ordenador 
+
+Etiqueta: aula     ||  Valor:  Ethernia 
+
+Etiqueta: piso     ||  Valor: Segundo
+
+Su codigo es:      ||  Valor: P5
+
+Etiqueta: peso     ||  Valor:  50Kg 
+
+Etiqueta: nombre     ||  Valor:  Pizzarra digital 
+
+Etiqueta: aula     ||  Valor:  Factoría multimedia 
+
+Etiqueta: piso     ||  Valor: Primero
+
+Su codigo es:      ||  Valor: P6
+
+Etiqueta: peso     ||  Valor:  2kg 
+
+Etiqueta: nombre     ||  Valor:  Porteria 
+
+Etiqueta: aula     ||  Valor:  Aula 1 
+
+Etiqueta: piso     ||  Valor: Primero

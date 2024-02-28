@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding= "UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tabla.xsl"?>
+<inventario>
+	<producto codigo="P1">
+		<peso> 10Kg </peso>
+		<nombre> Ordenador </nombre>
+                <aula> Multimedia </aula>
+		<piso>Primero</piso>
+	</producto>
+	<producto codigo="P2">
+		<peso> 500g </peso>
+		<nombre> switch </nombre>
+		<aula> Cartoon </aula>
+		<piso>Segundo</piso>
+	</producto>
+	<producto codigo="P3">
+		<peso> 700g </peso>
+		<nombre> Pantalla </nombre>
+		<aula> Aula 2 </aula>
+		<piso>Primero</piso>
+	</producto>
+	<producto codigo="P4">
+		<peso> 640g </peso>
+		<nombre> Ordenador </nombre>
+		<aula> Ethernia </aula>
+		<piso>Segundo</piso>
+	</producto>
+	<producto codigo="P5">
+		<peso> 50Kg </peso>
+		<nombre> Pizzarra digital </nombre>
+		<aula> Factoría multimedia </aula>
+		<piso>Primero</piso>
+	</producto>
+	<producto codigo="P6">
+		<peso> 2kg </peso>
+		<nombre> Porteria </nombre>
+                <aula> Aula 1 </aula>
+		<piso>Primero</piso>
+	</producto>
+</inventario>
